@@ -1,0 +1,10 @@
+{
+  "name": "movie-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "array.prototype.find": "^2.0.4",
+    "body-parser": "~1.0.1",
+    "express": "~4.0.0"
+  }
+}
