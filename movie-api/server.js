@@ -45,4 +45,4 @@ router.put('/movies/:id', function(req, res) {
 app.use('/api', router);
 
 app.listen(port);
-console.log('The magic happens on port ' + port);
+console.log('Your active port is ' + port);
